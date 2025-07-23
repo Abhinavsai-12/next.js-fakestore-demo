@@ -22,16 +22,16 @@ Shows detailed info: title, price, image, description, category, etc.
 
 
 How to Run Locally
-# 1. Clone the repo
-git clone https://github.com/Abhinavsai-12/nextjs-fakestore-demo.git
+#1. Clone the repo
+git clone https://github.com/Abhinavsai-12/next.js-fakestore-demo.git
 
-# 2. Navigate into project directory
+#2. Navigate into project directory
 cd nextjs-fakestore-demo
 
-# 3. Install dependencies
+#3. Install dependencies
 npm install
 
-# 4. Run the development server
+#4. Run the development server
 npm run dev
 
 
