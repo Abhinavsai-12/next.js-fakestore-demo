@@ -22,6 +22,7 @@ Shows detailed info: title, price, image, description, category, etc.
 
 
 How to Run Locally
+
 #1. Clone the repo
 git clone https://github.com/Abhinavsai-12/next.js-fakestore-demo.git
 
